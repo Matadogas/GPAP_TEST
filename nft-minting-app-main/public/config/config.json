@@ -9,9 +9,9 @@
   "NFT_NAME": "Graffiti Prime Ape Planet",
   "SYMBOL": "GPAP",
   "MAX_SUPPLY": 100,
-  "WEI_COST": 1000000000000000000,
-  "DISPLAY_COST": 1,
-  "GAS_LIMIT": 285000,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 3000000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/graffiti-prime-ape-planet",
   "SHOW_BACKGROUND": true
